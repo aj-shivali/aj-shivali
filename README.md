@@ -6,6 +6,7 @@
 
 <br>
 <br>
+Besides [(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/aj-shivali/), You can connect with me on [**LinkedIn**]().
 
 Here are some ideas to get you started:
 
