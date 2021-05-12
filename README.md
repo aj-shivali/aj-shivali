@@ -1,6 +1,6 @@
 # Hello World! I'm SHIVALI👋
 ### DREAMER | LEARNER | ENTHUSIAST
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aj-shivali) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aj-shivali)[![LinkedIn](https://img.shields.io/endpoint?color=FFFFFF&label=Connect%20with%20me&logo=linkedin&logoColor=%230A66C2&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivalijpandey%2F)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aj-shivali) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aj-shivali)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **aj-shivali/aj-shivali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
