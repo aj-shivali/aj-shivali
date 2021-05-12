@@ -8,7 +8,7 @@ I am currently working on an individual project called [**VertoBot**](https://ve
 ##  My Github Status 👩‍💻
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aj-shivali&theme=chartreuse-dark&background=030808&border=66FCF1&stroke=66FCF1&ring=66FCF1&fire=66FCF1&currStreakNum=66FCF1&sideNums=66FCF1&currStreakLabel=66FCF1&sideLabels=66FCF1)](https://git.io/streak-stats)
 
-## My skills 🚀
+# My skills 🚀
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
