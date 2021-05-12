@@ -38,6 +38,6 @@ I am currently working on an individual project called [**VertoBot**](https://ve
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhaiyazsmile/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
-## Spotify playing[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shivali's Spotify Playing" width="350" />](https://open.spotify.com/user/314cqb5jzb2qskvhsqvogtw3g25y)
-ˇ
+## Spotify playing
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shivali's Spotify Playing" width="350" />](https://open.spotify.com/user/314cqb5jzb2qskvhsqvogtw3g25y)
  
