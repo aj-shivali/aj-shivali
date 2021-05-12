@@ -1,5 +1,5 @@
 # Hello World! I'm SHIVALI👋
-## DREAMER | LEARNER | ENTHUSIAST
+### DREAMER | LEARNER | ENTHUSIAST
 
 <!--
 **aj-shivali/aj-shivali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
