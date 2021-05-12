@@ -33,5 +33,6 @@ I am currently working on an individual project called [**VertoBot**](https://ve
 ![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 # Connect with me on :
-![Instagram]()
+![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+]()
  
