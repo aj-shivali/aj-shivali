@@ -7,5 +7,14 @@ I am currently working on an individual project called [**VertoBot**](https://ve
 
 ##  My Github Status 👩‍💻
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aj-shivali&theme=chartreuse-dark&background=030808&border=66FCF1&stroke=66FCF1&ring=66FCF1&fire=66FCF1&currStreakNum=66FCF1&sideNums=66FCF1&currStreakLabel=66FCF1&sideLabels=66FCF1)](https://git.io/streak-stats)
-<!--Here are some ideas to get you started:
+
+## My skills 🚀
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+
  
