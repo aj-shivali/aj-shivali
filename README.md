@@ -2,9 +2,6 @@
 ### DREAMER | LEARNER | ENTHUSIAST
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aj-shivali) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aj-shivali)
 <br><br>  
-
-![](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shivalijpandey" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shivalijpandey?trk=profile-badge">Shivali Pandey</a></div>)
-
 I am currently working on an individual project called [**VertoBot**](https://vertobot.000webhostapp.com/php/signup-user.php). Besides [**Github**](https://github.com/aj-shivali/), You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/shivalijpandey/). I am always ready to collaborate and currently open to work. Fun Fact: I love to sing and I am a Potterhead ⚡️.
 
 ## My Github Status 👩‍💻
