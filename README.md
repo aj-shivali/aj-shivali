@@ -1,32 +1,77 @@
-# Hello World! I'm SHIVALI👋 
-### DREAMER | LEARNER | ENTHUSIAST    
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aj-shivali) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aj-shivali)    
-<br><br>    
-I am currently working on an individual project called [**VertoBot**](https://vertobot.000webhostapp.com/php/signup-user.php). Besides [**Github**](https://github.com/aj-shivali/), You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/shivalijpandey/). I am always ready to collaborate and currently open to work. Fun Fact: I love to sing and I am a Potterhead ⚡️.     
- 
-## My Github Status 👩‍💻
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aj-shivali&theme=chartreuse-dark&background=030808&border=66FCF1&stroke=66FCF1&ring=66FCF1&fire=66FCF1&currStreakNum=66FCF1&sideNums=66FCF1&currStreakLabel=66FCF1&sideLabels=66FCF1) 
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shivali+Pandey;Frontend+Engineer+%7C+React+%7C+Node.js+%7C+TypeScript;Building+performant+UIs+and+scalable+systems!" alt="Typing SVG" />
+</h1>
 
-# My skills 🚀   
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/shivalipandey"><img src="https://img.shields.io/badge/-LinkedIn-1A73E8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:aj.shivali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/aj-shivali"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
+---
 
-# Connect with me on :
-[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/20480290/shivali-pandey)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivalijpandey/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhaiyazsmile/)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]() 
- 
- 
- 
+### 🧭 About Me  
+👩‍💻 Frontend Engineer @ **JSW One Platforms**  
+🌱 Learning **System Design for Frontend**, **Next.js**, and **Micro-frontend Architecture**  
+⚙️ Skilled in **React**, **Redux Toolkit**, **TypeScript**, **Vue/Nuxt**, **Node.js**, **NestJS**, and **PostgreSQL**  
+🎨 Passionate about **frontend performance**, **clean design**, and **developer experience**  
+💬 Always exploring how to make UIs faster, cleaner, and more intuitive
+
+---
+
+### 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,vue,nuxtjs,nodejs,nestjs,express,postgres,redis,docker,gcp,git,figma,html,css,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aj-shivali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-shivali&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+| 🧩 Project | 💡 Description | 🛠️ Tech Stack |
+|-------------|----------------|----------------|
+| **Order Management System (OMS)** | Enterprise Admin Panel for JSW’s internal order and finance workflows. | React 18, Redux Toolkit, MUI |
+| **MSME Commerce Portal** | SEO-optimized SSR E-commerce platform for MSMEs. | Vue 2, Nuxt 2, CommerceTools |
+| **Notification Microservice** | Event-driven notification system using GCP Pub/Sub and SendGrid. | Node.js, NestJS, PostgreSQL |
+
+---
+
+### 🎨 Design Philosophy  
+> “Code is design made logical — and every great UI is empathy turned into pixels.”  
+> I aim to build systems that balance **performance, elegance, and scalability**.
+
+---
+
+### 💫 Little Extras  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aj-shivali&style=for-the-badge&color=1A73E8" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aj-shivali?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/shivalipandey"><img src="https://img.shields.io/badge/-LinkedIn-1A73E8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:aj.shivali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/aj-shivali"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aj-shivali&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
+</div>
+
+---
+
+⭐️ *Built with ❤️ by [@aj-shivali](https://github.com/aj-shivali)*
