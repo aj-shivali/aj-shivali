@@ -36,15 +36,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-| 🧩 Project | 💡 Description | 🛠️ Tech Stack |
-|-------------|----------------|----------------|
-| **Order Management System (OMS)** | Enterprise Admin Panel for JSW’s internal order and finance workflows. | React 18, Redux Toolkit, MUI |
-| **MSME Commerce Portal** | SEO-optimized SSR E-commerce platform for MSMEs. | Vue 2, Nuxt 2, CommerceTools |
-| **Notification Microservice** | Event-driven notification system using GCP Pub/Sub and SendGrid. | Node.js, NestJS, PostgreSQL |
-
----
-
 ### 🎨 Design Philosophy  
 > “Code is design made logical — and every great UI is empathy turned into pixels.”  
 > I aim to build systems that balance **performance, elegance, and scalability**.
